@@ -21,6 +21,7 @@
   - [서비스 소개](https://github.com/kusitms-wannafly)
 - Splab Inc (2024.04 ~)
   - Backend Developer
+  - https://umoh.io/splab/profile/1353
 
 ## Presentation
 - [Classic TDD vs Mockist TDD](https://youtu.be/n01foM9tsRo)
