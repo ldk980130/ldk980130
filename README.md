@@ -15,9 +15,6 @@
   - [활동 기록](https://github.com/ldk980130/woowacourse-activities)
 - 큐시즘(kusitms) 27기 (2023.02 ~ 2023.05)
   - 한국 대학생 IT 경영학회
-  - 기획자, 디자이너와의 협업 경험
-  - IT 서비스를 기획하여 프로토타입을 시연하는 ‘밋업데이’에서 장려상 수상
-  - 프로젝트 진행 시 리드 개발자를 맡아 PM과의 소통 및 개발 일정 관리 담당
   - [서비스 소개](https://github.com/kusitms-wannafly)
 - Splab Inc (2024.04 ~)
   - Backend Developer
